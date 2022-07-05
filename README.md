@@ -15,7 +15,7 @@ Composer install
 ````````
 
 PhpUnit test
- *Run inside docker exec -it [container-name APP] bash
+ *Run docker exec -it [container-name APP] bash
  *Run ./vendor/bin/phpunit
  
 ````````
